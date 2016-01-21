@@ -1,7 +1,7 @@
 {
-  "name": "sendgrid_s3",
+  "name": "lambda-save-params",
   "version": "0.0.1",
-  "description": "",
+  "description": "AWS Lambda function for save any webhook request to S3.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
