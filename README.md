@@ -17,11 +17,13 @@ Create AWS lambda and upload lambda_save_params.zip.
 
 'API endpoint' tab -> 'API Gateway'
 
+```
 API Name: YOUR_API_NAME
 Resource name: YOUR_API_RESOURCE
 Method: POST
 Deployment stage: prod
 Security: Open
+```
 
 # Test 
 
